@@ -1,2 +1,3 @@
-# Coca-Cola-Stock---Live-and-Updated-ML-_-FA-_-DA-projects-
+# Coca-Cola-Stock-Analysis-ML
+
 My data analysis project
